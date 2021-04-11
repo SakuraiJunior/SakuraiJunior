@@ -4,64 +4,64 @@
 http://www.m3u.cl/playlist/SakuraiJuniorTV
 #*****************************
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/134734_CNLA.png", CNLA
-https://m3u-editor.com/serve/rokumaniatest/156476842
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/134729_LosSimpson.png", LosSimpson
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/134270_Azteca_7.", Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/133944_El_Chavo_del_8.png", El Chavo del 8
-https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/133602_Rock_TV.png", Rock TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", HustlersTV
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Brazzers TV
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/132967_Panico.", Panico
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/132966_Top_Latino_TV.png", Top Latino TV
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/132655_Locomotion_TV.png", Locomotion TV
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/132585_AZTV.png", AZTV
-http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/132493_Fashion_TV.png", Fashion TV
-https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/132439_Teleritmo.png", Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/132436_Boomerang_TV.", Boomerang-TV
-http://8.9.4.128:8080/hls/boomerangtv.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131568_Tooncast_Nick_Music.", Tooncast/Nick Music
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131518_CNN_en_Espanol.png", CNN en Español
-https://m3u-editor.com/serve/rokumaniatest/162879224
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131514_Sony.png", Sony
-https://sony-comedias-1.roku.wurl.com/manifest/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131513_Las_Estrellas.png", Las Estrellas
-https://m3u-editor.com/serve/rokumaniatest/164011175
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131512_IPE.png", IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131507_ConTV.jpg", ConTV
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131493_MTV_Animaciones.", MTV Animaciones
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131484_Top_Cine.png", Top Cine
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131379_Fox_News.png", Fox News
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131375_Turistik_TV.png", Turistik TV
-https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131374_Multimedios.png", Multimedios
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131321_Mall_TV.png", Mall TV
-https://mdstrm.com/live-stream-playlist/5d88dfce3ba1c56921779e9b.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/131172_Unicanal.png", Unicanal
-http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130921_Sexy_KPop.png", Sexy KPop
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130920_Panamericana_TV__PER_.png", Panamericana TV (PER)
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 Cartoon Network Latinoamerica
+
+#EXTINF:-1 Los Simpson 24/7
+
+#EXTINF:-1 Azteca 7
+
+#EXTINF:-1 El Chavo del 8 24/7
+
+#EXTINF:-1 Rock TV
+
+#EXTINF:-1 HustlersTV
+
+#EXTINF:-1 Brazzers TV
+
+#EXTINF:-1 Panico
+
+#EXTINF:-1 Top Latino TV
+
+#EXTINF:-1 Locomotion TV
+
+#EXTINF:-1 AnimeZone TV
+
+#EXTINF:-1 Fashion TV
+
+#EXTINF:-1 Teleritmo
+
+#EXTINF:-1 Boomerang-TV
+
+#EXTINF:-1 Tooncast/Nick Music
+
+#EXTINF:-1 CNN en Español
+
+#EXTINF:-1 Sony
+
+#EXTINF:-1 Las Estrellas
+
+#EXTINF:-1 IPE
+
+#EXTINF:-1 ConTV
+
+#EXTINF:-1 MTV Animaciones
+
+#EXTINF:-1 Top Cine
+
+#EXTINF:-1 Fox News (Radio en Ingles)
+
+#EXTINF:-1 Turistik TV
+
+#EXTINF:-1 Multimedios
+
+#EXTINF:-1 Mall TV
+
+#EXTINF:-1 Unicanal
+
+#EXTINF:-1 Sexy KPop
+
+#EXTINF:-1 Panamericana TV (PER)
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal 10 (SAL)
 http://streamingcws20.com:1935/tves/tves.smil/chunklist_w1862063957_b978000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130917_Bolivia_TV__BOL_.png", Bolivia TV (BOL)
