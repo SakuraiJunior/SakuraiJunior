@@ -5,31 +5,85 @@
 #*****************************
 #EXTM3U
 #EXTINF:-1 Cartoon Network
+URL: https://m3u-editor.com/serve/rokumaniatest/156476842
+
 #EXTINF:-1 Azteca 7
+URL: https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
 #EXTINF:-1 Panico
-#EXTINF:-1 Locomotion TV
+URL: http://170.178.189.66:1935/live/Stream1/.m3u8 
+
 #EXTINF:-1 Tooncast/Nick Music
+URL: http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+
 #EXTINF:-1 Las Estrellas
+URL: https://m3u-editor.com/serve/rokumaniatest/164011175
+
 #EXTINF:-1 MTV Animaciones
+URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersio
+
 #EXTINF:-1 Multimedios
+URL: https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
 #EXTINF:-1 TV Pacifico
+URL: https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
+
 #EXTINF:-1 PlutoTV Anime
+URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDN
+
 #EXTINF:-1 Videorola
+URL: https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
 #EXTINF:-1 Larsavision TV
+URL: https://6011c5681d877.streamlock.net:1936/larsatv/larsatv/chunklist_w891820996.m3u8
+
 #EXTINF:-1 Canal 28
+URL: https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
 #EXTINF:-1 Telemar
+URL: https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
+
 #EXTINF:-1 Mexiquense TV
+URL: https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
 #EXTINF:-1 ForoTV
+URL: https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
+
 #EXTINF:-1 LatinosUP!
+URL: https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+
 #EXTINF:-1 EWTN
+URL: https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
 #EXTINF:-1 TUDN
+URL: https://m3u-editor.com/serve/rokumaniatest/156476771
+
 #EXTINF:-1 Telemax Sonora
+URL: https://6011c5681d877.streamlock.net:1936/telemax/telemax/playlist.m3u8
+
 #EXTINF:-1 Cine Latino
+URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+
 #EXTINF:-1 Somos Banda,la 98.1fm
+URL: https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
+
 #EXTINF:-1 Telemundo Novelas
+URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceMo
+
 #EXTINF:-1 Comedy Central
+URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType=web&deviceMake=web
+
 #EXTINF:-1 Nickelodeon
+URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0
+
 #EXTINF:-1 ADN40
+URL: https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+
 #EXTINF:-1 Canal Once
+URL: http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
 #EXTINF:-1 Claro Sport
+URL: https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
 #EXTINF:-1 PequeradioTV
+URL: https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
