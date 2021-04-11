@@ -5,212 +5,40 @@ http://www.m3u.cl/playlist/SakuraiJuniorTV
 #*****************************
 #EXTM3U
 #EXTINF:-1 Cartoon Network Latinoamerica
-
 #EXTINF:-1 Los Simpson 24/7
-
 #EXTINF:-1 Azteca 7
-
 #EXTINF:-1 El Chavo del 8 24/7
-
 #EXTINF:-1 Rock TV
-
 #EXTINF:-1 HustlersTV
-
 #EXTINF:-1 Brazzers TV
-
 #EXTINF:-1 Panico
-
 #EXTINF:-1 Top Latino TV
-
 #EXTINF:-1 Locomotion TV
-
 #EXTINF:-1 AnimeZone TV
-
 #EXTINF:-1 Fashion TV
-
 #EXTINF:-1 Teleritmo
-
 #EXTINF:-1 Boomerang-TV
-
 #EXTINF:-1 Tooncast/Nick Music
-
 #EXTINF:-1 CNN en Español
-
 #EXTINF:-1 Sony
-
 #EXTINF:-1 Las Estrellas
-
 #EXTINF:-1 IPE
-
 #EXTINF:-1 ConTV
-
 #EXTINF:-1 MTV Animaciones
-
 #EXTINF:-1 Top Cine
-
 #EXTINF:-1 Fox News (Radio en Ingles)
-
 #EXTINF:-1 Turistik TV
-
 #EXTINF:-1 Multimedios
-
 #EXTINF:-1 Mall TV
-
 #EXTINF:-1 Unicanal
-
 #EXTINF:-1 Sexy KPop
-
 #EXTINF:-1 Panamericana TV (PER)
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Canal 10 (SAL)
-http://streamingcws20.com:1935/tves/tves.smil/chunklist_w1862063957_b978000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130917_Bolivia_TV__BOL_.png", Bolivia TV (BOL)
-http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w352402513.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130915_La_Popular_TV.png", La Popular TV
-https://5d1ca66d2d698.streamlock.net:1936/8076/mp4:8076_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130677_SummerTV.png", SummerTV
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130672_TVPacifico.png", TVPacifico
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130671_PlutoTV_Anime.png", PlutoTV Anime
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130667_CN_247__ARG_.png", CN 247 (ARG)
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130665_Videorola.png", Videorola
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", JasminTV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130516_LarsavisionTV.png", LarsavisionTV
-https://6011c5681d877.streamlock.net:1936/larsatv/larsatv/chunklist_w891820996.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130229_Red_Bull_TV.png", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130029_FiteTV.", FiteTV
-https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8?sbn
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/130011_Canal_28.png", Canal 28
-https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Jenny Live
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129662_Telemar.png", Telemar
-https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129614_Vibe_TV.png", Vibe TV
-https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129278_MexiquenseTV.png", MexiquenseTV
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129277_Foro_TV.png", Foro TV
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129276_Telefe__ARG_.png", Telefe (ARG)
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129272_Latinos_Up_.png", Latinos Up!
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129257_MariaVision.png", MariaVision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129256_EWTN.jpg", EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129255_NFL_Network.png", NFL Network
-https://m3u-editor.com/serve/rokumaniatest/156476789
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129254_TUDN.png", TUDN
-https://m3u-editor.com/serve/rokumaniatest/156476771
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/129253_Babyfirst.png", Babyfirst
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=false
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/128327_Telemax_Sonora.png", Telemax Sonora
-https://6011c5681d877.streamlock.net:1936/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/128007_PlutoTV_Cine.png", PlutoTV Cine
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/128006_Cine_Latino.png", Cine Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127976_NisibonTV__RDM_.", NisibonTV (RDM)
-http://95.111.236.94:8080/hls/nisibontv.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127910_Somos_Banda_La_98_1fm.png", Somos Banda,La 98.1fm
-https://6019dcac4147f.streamlock.net:9443/la98/Invosa/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127909_Famili_Channel.fna&oh=03c333b5b0a356cf716af31cb02edcc1&oe=6044F589", Famili Channel
-https://rtmp02.portalexpress.es/thefchanel/thefchanel/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127907_VivaRussia.jpg", VivaRussia
-http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127904_La_Mega_Musical.png", La Mega Musical
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127903_La_Top_102_9FM.jpg", La Top 102.9FM
-https://6019dcac4147f.streamlock.net:9443/latopsps/Invosa/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127441_Telemundo_Novelas.jpg", Telemundo Novelas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=940&deviceId=5cf96cc422df39f1a338d165&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127440_MotorSportNetwork.png", MotorSportNetwork
-https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", MiamiTV HD
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127438_Latin_Pop_VIP.", Latin Pop VIP
-https://c6db63f2ab884b40b3ff31e8a64bfcbb.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_plex/master.m3u8?ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.plex_id=5eea71d75252710041e0ccd4&dnt=1&ads.device_id=undefined
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127436_Comedy_Central.", Comedy Central
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=967&deviceId=5cf96dad1652631e36d43320&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127434_AFV_en_Espanol.", AFV en Español
-https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/mt/plex/46/hls/master/playlist.m3u8?ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.plex_id=5ef4e1b10d9ad000423c4421&ads.device_id=undefined&ads.dnt=1&ads.us_privacy=1---
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127429_Nickelodeon.", Nickelodeon
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=0&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127428_Lucha_Libre_AAA.png", Lucha Libre AAA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/127051_ElPinguinoTV.png", ElPinguinoTV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126868_Mi_TV.png", Mi TV
-http://162.244.80.176:8081/abr/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126864_CBN.png", CBN
-https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126863_Taroteame_TV.png", Taroteame TV
-http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126862_TV_Galicia__ESP_.", TV Galicia (ESP)
-https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126191_ADN_40.", ADN 40
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126193_Canal_Once.png", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126192_DW.", DW
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126354_SuramTV__COL_.png", SuramTV (COL)
-http://stream2.livestreamingservices.com:1935/suramtv/suramtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126355_Tele1__SAL_.png", Tele1 (SAL)
-http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126203_Telefuturo__PAR_.png", Telefuturo (PAR)
-http://ss8.domint.net:2118/tf_str/futu/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126519_SobreNaturalTV.", SobreNaturalTV
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126183_WOWTV.fna&oh=4d0c5148f5e9cf48f1068a17a91a72b4&oe=60455502", WOWTV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126357_Amigo_TV.fna&_nc_tp=30&oh=c31656f6fdbbfe04e9310756e1f79deb&oe=607CD40A", Amigo TV
-http://srv.panelcast.net/canalochoarequipa/canalochoarequipa/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126876_CineCable.jpg", CineCable
-https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126861_STIRR_Movies.png", STIRR Movies
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126170_France24.png", France24
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126204_RT.", RT
-https://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126356_XTItv.png", XTItv
-https://59802217c6db4.streamlock.net/xtitv/videoxtitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126200_Oye_Canal7.", Oye Canal7
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126180_California_Music_Channel.gif", California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126867_Music_Top.", Music Top
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126194_Garage_TV.png", Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126517_Adventure_Sports_TV.png", Adventure Sports TV
-https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126176_MLB_Network.png", MLB Network
-https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126190_Claro_Sports.png", Claro Sports
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126188_NHK_World__JAP_.svg", NHK World (JAP)
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126179_TVG_Infantil.png", TVG Infantil
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126177_PequeradioTV.webp", PequeradioTV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/126881_IGN.jpg", IGN
-https://ign-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", MiamiTV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", PlayboyTV
-http://187.188.147.165:8000/play/a00l/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", PrivateTV
-http://87.207.71.147:4000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/logo-M3U-negro-cl.png", Fashion Bikini TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 Canal 10 (SAL)
+#EXTINF:-1 Bolivia TV (BOL)
+#EXTINF:-1 La Popular TV
+#EXTINF:-1 SummerTV
+#EXTINF:-1 TVPacifico
+#EXTINF:-1 PlutoTV Anime
+#EXTINF:-1 TUDN
+#EXTINF:-1 LarsavisionTV
+#Incluyen muchos más canales
