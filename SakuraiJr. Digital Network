@@ -148,3 +148,125 @@ m3u8=https://iptvcat.com/my_list/s/8b4b1dcab10978479b0048d31f092011.m3u8
 tvg-logo= https://static.wikia.nocookie.net/logopedia/images/e/ef/CNN_en_Espa%C3%B1ol_2014.png/revision/latest?cb=20160621221353&path-prefix=es
 group-title="Noticias"
 m3u8=https://iptvcat.com/my_list/s/53467ab09c06f118bf472aac83df651f.m3u8
+
+#EXTINF-1 Las estrellas
+tvg-logo= https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png
+group-title="Nacionales"
+m3u8=https://iptvcat.com/my_list/s/c96f262965b64cba7d26247b2c890902.m3u8
+
+#EXTINF-1 El 5
+tvg-logo= https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/800px-Canal_5_Mexico_logo_2014.svg.png
+group-title="Nacionales"
+m3u8=https://iptvcat.com/my_list/s/1d78f02f590da4078db377414173a5a3.m3u8
+
+#EXTINF-1 Azteca Siete
+tvg-logo= https://images.app.goo.gl/nPVqNj53HVsxAyJZ7
+group-title="Nacionales"
+m3u8=https://iptvcat.com/my_list/s/81d21ac1fd21c7fe2751207ccd0b0fee.m3u8
+
+#EXTINF-1 Gala TV
+tvg-logo= https://www.freepng.es/png-yz6gfs/download.html
+group-title="Nacionales"
+m3u8=https://iptvcat.com/my_list/s/4c2fc10f254a551447f764830f193656.m3u8
+
+#EXTINF-1 Canal Once
+tvg-logo= https://brandslogos.com/wp-content/uploads/images/large/once-tv-mexico-logo-vector.svg
+group-title="Nacionales"
+m3u8=https://iptvcat.com/my_list/s/63a27e00fbc2c4e046aced894ff1824b.m3u8
+
+#EXTINF-1 Imagen TV
+tvg-logo= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-3QN8_nAHzksJK0SuRi7m0ejju5veU4RDQ&usqp=CAU
+group-title="Nacionales"
+m3u8= https://iptvcat.com/my_list/s/81e5599102f2377e2f9efb965129f3b4.m3u8
+
+#EXTINF-1 Canal Catorce
+tvg-logo= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKiMIAD-FrZAQANv_Blabi5kXXJlnbDXmATQ&usqp=CAU
+group-title="Nacionales"
+m3u8=https://iptvcat.com/my_list/s/92d700d58372700f79bc199ca2d08738.m3u8
+
+#EXTINF-1 Adn40
+tvg-logo= https://cdn.mitvstatic.com/channels/adn-40-m.png
+group-title="Nacionales"
+m3u8=https://iptvcat.com/my_list/s/37402d69dda5801dcc71ec4651cdc539.m3u8
+
+#EXTINF-1 Star Channel
+tvg-logo= https://cdn.mitvstatic.com/channels/mx_fox_m.png
+group-title="Entretenimiento"
+m3u8=https://iptvcat.com/my_list/s/0d81c39d3b4e5ea767098d856622bf71.m3u8
+
+#EXTINF-1 Universal Channel
+tvg-logo= https://cdn.mitvstatic.com/channels/mx_universal-channel_m.png
+group-title="Entretenimiento"
+m3u8=https://iptvcat.com/my_list/s/7c9415580aac01d77afd77b5641b122d.m3u8
+
+#EXTINF-1 TNT
+group-title="Entretenimiento"
+m3u8=https://iptvcat.com/my_list/s/3e361b2d4aa04eacd57ac5ac34c8460a.m3u8
+
+#EXTINF-1 Warner TV
+group-title="Entretenimiento"
+m3u8=https://iptvcat.com/my_list/s/eaa7b33d14522161bac5d07a108d9bf0.m3u8
+
+#EXTINF-1 Sony
+group-title="Entretenimiento"
+m3u8=https://iptvcat.com/my_list/s/ab0058da1b8aaff4aab702cba6a6894b.m3u8
+
+#EXTINF-1 AXN
+group-title="Entretenimiento"
+m3u8=https://iptvcat.com/my_list/s/49a5c65a71d9781bf904b5e81e85be5f.m3u8
+
+#EXTINF-1 E!
+group-title="Entretenimiento"
+m3u8=https://iptvcat.com/my_list/s/c53d7e3d6027e2497baa7d3603e99cf3.m3u8
+
+#EXTINF-1 Syfy
+group-title="Peliculas"
+m3u8=https://iptvcat.com/my_list/s/3b085ba2263c1519660ce51d6d4353ef.m3u8
+
+#EXTINF-1 Space
+group-title="Peliculas"
+m3u8=https://iptvcat.com/my_list/s/7d0681983c3480f627bcfe6d536549f5.m3u8
+
+#EXTINF-1 ESPN
+group-title="Deportes"
+m3u8=https://iptvcat.com/my_list/s/7b27ceb578a7a54318be8d7e167f55d9.m3u8
+
+#EXTINF-1 Fox Sport
+group-title="Deportes"
+m3u8=https://iptvcat.com/my_list/s/97240ee757f7910659f7d12c6c8574e0.m3u8
+
+#EXTINF-1 History Channel
+group-title="Cultura"
+m3u8=https://iptvcat.com/my_list/s/5ab2fc1cb01fd781f1da2a2933689296.m3u8
+
+#EXTINF-1 Disney Channel
+group-title="Infantil"
+m3u8=https://iptvcat.com/my_list/s/6b8bad8b8b9cc7c0df8ebb9b70a3b214.m3u8
+
+#EXTINF-1 Cartoon Network
+group-title="Infantil"
+m3u8=https://iptvcat.com/my_list/s/ef5b775d1155670fc5e74d32b03a18f0.m3u8
+
+#EXTINF-1 Discovery Kids
+group-title="Infantil"
+m3u8=https://iptvcat.com/my_list/s/146c4da4307354ac73df5e6475852171.m3u8
+
+#EXTINF-1 MTV
+group-title="Musica"
+m3u8=https://iptvcat.com/my_list/s/615f9a3cf340cd8b7bc093b980681ad8.m3u8
+
+#EXTINF-1 VH1
+group-title="Musica"
+m3u8=https://iptvcat.com/my_list/s/7f65bbc848255a5cd457ddb8eab6ccc1.m3u8
+
+#EXTINF-1 HBO
+group-title="Peliculas"
+m3u8=https://iptvcat.com/my_list/s/943447966212500ec0d4ec2d35bab46a.m3u8
+
+#EXTINF-1 Cinemax
+group-title="Peliculas"
+m3u8=https://iptvcat.com/my_list/s/8b4b1dcab10978479b0048d31f092011.m3u8
+
+#EXTINF-1 CNN
+group-title="Noticias"
+m3u8=https://iptvcat.com/my_list/s/53467ab09c06f118bf472aac83df651f.m3u8
