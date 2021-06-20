@@ -98,7 +98,7 @@ https://vp01-telemundosd.delivery.fuugo.com/ngrp:vp01-Telemundo_SD-147c97bb_all/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/989hNim.png" group-title="Internacionales", Latinos Up!| HD | Estados Unidos
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="España", TV Galicia América | HD | Gallego
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Internacionales", TV Galicia América | HD | Gallego
 https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana
@@ -155,3 +155,17 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEWQwu7.png" group-title="Musicales", Top Latino | SD | Perú
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w252243304.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oL08hHh.png" group-title="Musicales", Music Top| HD |Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo| SD |México
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola | SD |México
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NcyIsLR.png" group-title="Musicales", Sexy K-POP | HD  | Brasil
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPg5HX9/o2.png" group-title="Musicales", Oxígeno  TV | SD | Venezuela
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
