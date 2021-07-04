@@ -51,7 +51,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento", MTV Animaciones| SD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kURilHG.png" group-title="Familiares", Nick Clásico| SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kURilHG.png" group-title="Familiares", Nick| SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4432f29e-f694-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F619PhG.png" group-title="Familiares", Nick Junior| SD
@@ -63,13 +63,13 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D09VsxI.png" group-title="Salud", Vibe TV| HD | México
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg" group-title="Cristianos",  EWTN en español| FHD | Católico | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg" group-title="Religiosos",  EWTN en español| FHD | Católico | Estados Unidos
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png" group-title="Cristianos", Mariavisión| FHD | Católico | México
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png" group-title="Religiosos", Mariavisión| FHD | Católico | México
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfwd9a.png" group-title="Cristianos", Monte María | HD | Católico | México
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfwd9a.png" group-title="Religiosos", Monte María | HD | Católico | México
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Internacionales", Deutsche Welle Latino | SD | Alemania 
@@ -108,8 +108,8 @@ http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="Nacional", Multimedios | HD | Laguna
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="Nacional", Multimedios | HD | Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h8kIvLr.png" group-title="Nacional", Canal Once | HD
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
@@ -123,7 +123,7 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XCN0uTV.png" group-title="Nacional", 15TV Sabinas | SD
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7rEbKUr.png" group-title="Nacional", Turistik TV | HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rEbKUr.png" group-title="Salud", Turistik TV | HD
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkAJDFQ.png" group-title="Nacional",Foro TV | HD
@@ -186,8 +186,8 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/.m3u8
 #EXTINF:-1 tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="Familiares",Dreiko TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w688163672.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mAI5tbx.png" group-title="Familiares",Kanade TV HD
-http://player.twitch.com?channel=kdetelevision&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VHSjbEj.png" group-title="Noticias", Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b095FzU.jpg" group-title="Familiares",LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
@@ -215,8 +215,44 @@ https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="Noticias",Euronews HD
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.mrf.io/statics/i/ps/cdn.proceso.com.mx/media/2019/12/France-24-870x522.jpg?width=1200&enable=upscale" group-title="Noticias",France 24 Francia ES
+#EXTINF:-1 tvg-logo="https://live.mrf.io/statics/i/ps/cdn.proceso.com.mx/media/2019/12/France-24-870x522.jpg?width=1200&enable=upscale" group-title="Noticias",France 24
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6027/240/default.jpg" group-title="Noticias",RT Espanol
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6027/240/default.jpg" group-title="Noticias",RT Espanol
 https://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/unesBrV.png" group-title="Nacional", Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="Entretenimiento", WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="Entretenimiento", Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VIpafvM.png" group-title="Musicales", California Music Channel | HD
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1521518110.png" group-title="Internacionales" NHK Japan
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png" group-title="Deportes", RedBull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1,Efekto Tv SD
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,TV Mas
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal del Congreso
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+
+#EXTINF:-1,Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
+#EXTINF:-1,Gala TV Mexico City
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+
+#EXTINF:-1,Antena 3 Internacional
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
