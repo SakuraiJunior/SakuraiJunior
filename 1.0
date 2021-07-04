@@ -239,20 +239,23 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="http://chileiptv.cl/img/logos/file_1522637574.png" group-title="Deportes", RedBull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
-#EXTINF:-1,Efekto Tv SD
+#EXTINF:-1,group-title="Educacion" Efekto Tv SD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,TV Mas
+#EXTINF:-1,group-title="Educacion" TV Mas
 http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,Canal del Congreso
+#EXTINF:-1,group-title="CCTV" Canal del Congreso
 http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
 
-#EXTINF:-1,Canal Judicial
+#EXTINF:-1,group-title="CCTV" Canal Judicial
 http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
-#EXTINF:-1,Gala TV Mexico City
+#EXTINF:-1,group-title="Nacional" Gala TV Mexico City
 http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
 
-#EXTINF:-1,Antena 3 Internacional
+#EXTINF:-1,group-title="Internacional" Antena 3 Internacional
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1, tvg-logo="http://photocall.tv/images/telemax.png" group-title="Nacionales" Telemax  Sonora
+https://6011c5681d877.streamlock.net:1936/telemax/telemax/chunklist_w584054233.m3u8
