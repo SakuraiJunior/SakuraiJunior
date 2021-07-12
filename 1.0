@@ -3,7 +3,7 @@
 
 #pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
 #
-#Canales de Television online a nivel Basico
+#Canales de Television online a nivel completo y muy cargado
 #playlist: https://raw.githubusercontent.com/SakuraiJunior/TeleAdicto/main/1.0
 #ultima actualizacion:04/07/2021
 #
@@ -260,5 +260,8 @@ http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chi
 #EXTINF:-1, tvg-logo="http://photocall.tv/images/telemax.png" group-title="Nacionales" Telemax  Sonora
 https://6011c5681d877.streamlock.net:1936/telemax/telemax/chunklist_w584054233.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/svHCOhE.png" group-title="Familiares",Toonizaki
+#EXTINF:-1, tvg-logo="https://i.imgur.com/svHCOhE.png",group-title="Familiares",Toonizaki
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+
+#EXTINF:-1, tvg-logo="https://kanadetv.club/sitepad-data/uploads//2021/07/Branded_Logo_Icon_Only.png" group-title="Familiares", Kanade TV
+http://96.30.193.226:81/hls/kanade.m3u8
