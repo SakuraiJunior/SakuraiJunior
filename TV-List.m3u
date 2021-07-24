@@ -27,9 +27,6 @@ http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Cine y Series", Rakuten  TV Comedias | HD | España
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CPSCPkI.jpg" group-title="Cine y Series", Lim | SD | Paraguay
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMUYwMp.png" group-title="Cine y Series", Cine Cable TV | SD | Ecuador
 https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 
@@ -171,9 +168,6 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="Musicales",MTV | HD | Dinamarca
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WL0IzEM.jpg" group-title="Musicales", 24/7 Online K-POP IDOL Channel [ALL THE K-POP] (Kodi)| HD | Corea del Sur
-plugin://plugin.video.youtube/play/?video_id=8zUdwHwuwhQ
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Moda", Fashion TV | FHD | Francia
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
 
@@ -198,7 +192,7 @@ http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/published/imagen-final-2.png?1589394562" group-title="Familiares",Mi TV Television Clasica
 http://162.244.80.176:8081/abr/stream/live/livestream_source/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="Nacionales", Azteca 7
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/20551-91383.png" group-title="Nacional", Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="Familiares",Rakuten TV Familia
