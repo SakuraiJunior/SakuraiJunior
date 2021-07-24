@@ -212,7 +212,7 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w387874304_b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cI80Wzz.png" group-title="Adultos", Jasmin Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cI80Wzz.png" group-title="Adultos", Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Adultos", Fashion Bikini TV
