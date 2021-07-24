@@ -39,6 +39,9 @@ http://stmv.panel.grupolimalive.com/cineperu/cineperu/chunklist_w1962449346.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="Cine y Series", Top Cine olympusat
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuJMNzd.png" group-title="Cine y Series", Life TV
+http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7LN01zd.png" group-title="Infantil", Anime
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
@@ -75,11 +78,145 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oZGfpO8.png" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg" group-title="Cristianos",  EWTN en español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg" group-title="Iglesias",  EWTN en español
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png" group-title="Cristianos", Mariavisión
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png" group-title="Iglesias", Mariavisión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfwd9a.png" group-title="Cristianos", Monte María
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfwd9a.png" group-title="Iglesias", Monte María
 http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="Noticieros", Deutsche Welle Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png" group-title="Noticieros", CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/989hNim.png" group-title="Internacionales", Latinos Up!
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Noticieros", Rusia Today Español 
+http://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Internacionales", Rusia Today Español| S2
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticieros", Euronews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alsAUUk.png" group-title="Internacionales", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Internacionales", TV Galicia América
+https://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSYcF8k.png" group-title="Familiares", TV Galicia Xabarín
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone
+http://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXDY15q.png" group-title="Familiares", Kanade TV 
+http://96.30.193.226:81/hls/kanade.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXDY15q.png" group-title="Familiares", Kanade TV | S2
+http://96.30.193.226:81/hls/kanadetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Familiares", Simpson TV
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png" group-title="Familiares", El Chavo  TV 
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMehmmO.png" group-title="Internacionales", Telepacífico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PY3566n.png" group-title="Entretenimiento", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P5rq2SD.png" group-title="México", TV Pacífico Obregón
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X4x2OkO.png" group-title="México", Cep Cadena 4
+https://mdstrm.com/live-stream-playlist/5cfe8974ef9acc25607a7dec.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M3RpKt3.png" group-title="México", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJnhGwX.png" group-title="México", Teleplay Mérida
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMqghA3.png" group-title="México", Telemar Campeche
+https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h8kIvLr.png" group-title="México", Canal Once 
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4uLdvzR.png" group-title="México", TV Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rEbKUr.png" group-title="México", Turistik TV
+https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YkAJDFQ.png" group-title="México",Foro TV
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUuglM.png" group-title ="México", Justicia TV
+https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOfpWOV.jpg" group-title="Musicales", Oye
+https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cXknSUb.jpg" group-title="Musicales", High Music
+http://96.30.193.226:81/hls/highmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEWQwu7.png" group-title="Musicales", Top Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t5x4qH1.png" group-title="Musicales", Telemúsica
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oL08hHh.png" group-title="Musicales", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NcyIsLR.png" group-title="Musicales", Sexy K-POP
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhTwKWh.png" group-title="Musicales", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Musicales",CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Moda", Fashion TV
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiSjDAa.png" group-title="Moda", HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Miami Tv México
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1190719083_b1896000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w387874304_b2592000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Jenny Live
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cI80Wzz.png" group-title="Adultos", Jasmin Channel
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Adultos", Fashion Bikini TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
