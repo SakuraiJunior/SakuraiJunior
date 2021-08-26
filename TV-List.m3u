@@ -48,9 +48,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oK2gVsH.png" group-title="Entretenimiento", MTV Animaciones
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c3e30-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2122e9a3-0ffd-41e4-bb57-eb51058728f6&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kURilHG.png" group-title="Infantil", Nickelodeon
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F619PhG.png" group-title="Infantil", Nick Junior
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
@@ -147,50 +144,20 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rEbKUr.png" group-title="México", Turistik TV
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YkAJDFQ.png" group-title="México",Foro TV
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMUuglM.png" group-title ="México", Justicia TV
 https://d2t9djfuxq08da.cloudfront.net/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qOfpWOV.jpg" group-title="Musicales", Oye
-https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fEWQwu7.png" group-title="Musicales", Top Latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t5x4qH1.png" group-title="Musicales", Telemúsica
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oL08hHh.png" group-title="Musicales", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NcyIsLR.png" group-title="Musicales", Sexy K-POP
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BhTwKWh.png" group-title="Musicales", California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Musicales", CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Moda", Fashion TV
-https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiSjDAa.png" group-title="Moda", HD Fashion & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Miami Tv México
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1190719083_b1896000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w387874304_b2592000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BLxN00.png" group-title="Adultos", Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/.m3u8
