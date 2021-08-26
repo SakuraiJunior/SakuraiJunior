@@ -209,15 +209,3 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Adultos", Fashion Bikini TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="http://latelete.tv/img/cartoon.png" group-title="Infantil", Cartoon Network Latinoamérica 
-
-
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/warner.jpg" group-title="Entretenimiento", WarnerTV México 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/712px-Comedy_Central.svg.png" group-title="Entretenimiento", Comedy Central México 
-
-
-#EXTINF:-1 tvg-logo=,group-title="Cine y Series" SPACE
-
