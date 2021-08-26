@@ -192,7 +192,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTv1ysB.png" group-title="Moda", Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HiSjDAa.png" group-title="Moda", HD Fashion & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
@@ -213,3 +212,12 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 
 #EXTINF:-1 tvg-logo="http://latelete.tv/img/cartoon.png" group-title="Infantil", Cartoon Network Latinoamérica 
 http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/warner.jpg" group-title="Entretenimiento", WarnerTV México 
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/712px-Comedy_Central.svg.png" group-title="Entretenimiento", Comedy Central México 
+http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/33.png",group-title="Cine y Series" SPACE
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
